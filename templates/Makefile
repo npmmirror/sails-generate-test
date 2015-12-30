@@ -9,7 +9,7 @@ install:
 test:
 	NODE_ENV=unit_test ./node_modules/.bin/mocha \
 		--reporter $(MOCHA_REPORTER) \
-		--timeout $(TIMEOUT) \
+		--timeout $(TEST_TIMEOUT) \
 		$(TESTS)
 
 coverage:
