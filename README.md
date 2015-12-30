@@ -62,7 +62,8 @@ In your `package.json` add a script and then Install test packages to your proje
     "grunt-mocha-istanbul": "^2.2.0",
     "barrels": "^1.4.0",
     "mocha": "*",
-    "should": "*"
+    "should": "*",
+    "superagent": "^1.4.0"
   }
 }
 ```
