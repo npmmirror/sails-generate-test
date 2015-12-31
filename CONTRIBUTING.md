@@ -1,4 +1,4 @@
-# Contributing to sails-generate-auth
+# Contributing to sails-generate-test
 
 ## Opening Issues
 

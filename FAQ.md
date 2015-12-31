@@ -6,10 +6,10 @@
 The latest stable version in npm is always a safe bet.
 
 ```sh
-$ npm install sails-generate-auth
+$ npm install sails-generate-test
 ```
 
-[![NPM](https://nodei.co/npm/sails-generate-auth.png?downloads=true&stars=true)](https://nodei.co/npm/sails-generate-auth/)
+[![NPM](https://nodei.co/npm/sails-generate-test.png?downloads=true&stars=true)](https://nodei.co/npm/sails-generate-test/)
 
 
 
