@@ -1,7 +1,7 @@
 TESTS = $(shell find test -type f -name "*test.js")
 TEST_TIMEOUT = 5000
 MOCHA_REPORTER = spec
-NPM_REGISTRY="--registry=https://registry.npm.taobao.org/"
+NPM_REGISTRY="--registry=https://registry.npmmirror.com/"
 
 install:
 	@npm install $(NPM_REGISTRY)
